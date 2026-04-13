@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: skinsense-backend
+
+rapidapi:
+  key: ${RAPIDAPI_KEY}
+  host: real-time-amazon-data.p.rapidapi.com

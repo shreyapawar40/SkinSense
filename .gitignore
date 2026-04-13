@@ -1,0 +1,26 @@
+# Node
+node_modules/
+dist/
+build/
+
+# logs
+*.log
+
+# env files
+.env
+.env.*
+
+# Python (ml-service)
+__pycache__/
+*.pyc
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Maven (backend)
+target/
