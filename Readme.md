@@ -365,4 +365,7 @@ This project, SkinSense, is independently developed by me as a full-stack + AI l
 ## 🤝 Contributing
 
 We welcome contributions!  
-Please check the `CONTRIBUTING.md` file for guidelines.
+Please check the CONTRIBUTING.md file for guidelines.
+
+
+👉 Read the full guide here: [Contributing Guide](CONTRIBUTING.md)
