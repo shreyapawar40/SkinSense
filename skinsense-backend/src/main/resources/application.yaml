@@ -5,3 +5,7 @@ spring:
 rapidapi:
   key: ${RAPIDAPI_KEY}
   host: real-time-amazon-data.p.rapidapi.com
+
+ml:
+  service:
+    url: http://localhost:8000/predict
